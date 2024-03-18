@@ -5,7 +5,7 @@ const Cards = () => {
   return (
     <div className="grid-one-item grid-common grid-c1">
         <div className="grid-c-title">
-            <h3 className="grid-c-title-text">MasterCard</h3>
+            <h3 className="grid-c-title-text">MasterCard (Access Bank PLC)</h3>
             <button className="grid-c-title-icon">
                 <img src={ iconsImgs.plus } />
             </button>

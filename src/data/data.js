@@ -130,7 +130,7 @@ export const savings = [
         id: 27,
         image: personsImgs.person_one,
         saving_amount: 968000,
-        title: "Code_Project Inc",
+        title: "Spars Technologies Ltd",
         date_taken: "23/01/2023",
         amount_left: 510000
     }
