@@ -14,8 +14,8 @@ const Cards = () => {
             <p>Account Balance</p>
             <div className="lg-value">$ 107,000</div>
             <div className="card-wrapper">
-                <span className="card-pin-hidden">**** **** **** </span>
-                <span>1234</span>
+                <span className="card-pin-hidden">5526 **** **** </span>
+                <span>9681</span>
             </div>
             <div className="card-logo-wrapper">
                 <div>
